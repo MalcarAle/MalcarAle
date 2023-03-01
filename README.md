@@ -15,7 +15,7 @@
 
 🧑🏽‍💻- Atualmente trabalho com BackEnd em C# e com bancos SQL, Oracle e Postgre. <br> 
 
-📘- Tenho conhecimento  em  HTML, CSS, JavaScrip.<br>
+📘- Tenho conhecimento  em  HTML, CSS, JavaScript.<br>
 
 🤓- Estou estudando React, TypeScript e NodeJS, alem de estar aprimorando softskills. 
 <br>
