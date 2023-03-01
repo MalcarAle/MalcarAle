@@ -4,18 +4,17 @@
 
 
 🧑🏽‍💻- Atualmente trabalho com BackEnd em C# e com bancos SQL, Oracle e Postgre. <br>
-📘- Estudando HTML, CSS, JavaScrip, React e NodeJS, e como se tornar um programador melhor. 
+📘- Tenho conhecimento solido em  HTML, CSS, JavaScrip.<br>
+🤓- Estou estudando React, TypeScript e NodeJS, alem de estar aprimorando softskills. 
 
 ##
+<div >
 <a href="https://github.com/MalcarAle/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&hide=contribs,prs&show_icons=true&theme=radical" />
+  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&hide=contribs,prs&show_icons=true&theme=radical" />
+</a><a href="https://github.com/MalcarAle/github-readme-stats">
+  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcarAle&layout=compact&theme=radical" />
 </a>
-<br>
-<br>
-
-<a href="https://github.com/MalcarAle/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcarAle&layout=compact&theme=radical" />
-</a>
+  </div>
 <br>
 <br>
 
