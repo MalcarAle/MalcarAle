@@ -24,7 +24,7 @@
 
 
 
-<h2>Tecnologias e Ferramentas</h2>
+<h2>Technologies and Tools</h2>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30px; width= 30px;/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=30px; width= 30px;/>
