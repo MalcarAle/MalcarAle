@@ -8,16 +8,16 @@
 </div>
  <br> 
   
-### <h2>Bem vindo(a) ao meu GitHub! Eu sou o Alexandre Malcar Veiga 🖖</h2>
+### <h2>Welcome to my GitHub! I am Alexandre Malcar Veiga 🖖</h2>
 
 <br>
 
 
-🧑🏽‍💻- Atualmente trabalho com BackEnd em C# e com bancos SQL, Oracle e Postgre. <br> 
+🧑🏽‍💻- Currently, I work with BackEnd and FrontEn in C# and with SQL, Oracle, and Postgre databases. <br> 
 
-📘- Tenho conhecimento  em  HTML, CSS, JavaScript.<br>
+📘- I have knowledge in HTML, CSS, JavaScript and NodeJS<br>
 
-🤓- Estou estudando React, TypeScript e NodeJS, alem de estar aprimorando softskills. 
+🤓- I am studying React, React Native, and TypeScript  as well as improving my soft skills. 
 <br>
 <br>
 
@@ -39,7 +39,7 @@
 </div>
 <br>
 
-<h2>Estou estudando</h2>
+<h2>I am studying</h2>
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=30px; width= 30px;/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30px; width= 30px;/>
@@ -49,7 +49,7 @@
 </div>
 <br>
 
-<h2>Contatos</h2>
+<h2>Contacts</h2>
 <div>
   <a href="mailto:alexandre.malcar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/alebadcar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
