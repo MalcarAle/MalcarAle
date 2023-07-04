@@ -17,7 +17,7 @@
 
 📘- I have knowledge in HTML, CSS, JavaScript and NodeJS<br>
 
-🤓- I am studying React, React Native, and TypeScript  as well as improving my soft skills. 
+🤓- I am studying Angular, React, React Native, and TypeScript  as well as improving my soft skills. 
 <br>
 <br>
 
@@ -33,14 +33,18 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height=30px; width= 30px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=30px; width= 30px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  height=30px; width= 30px;/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=30px; width= 30px;/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height=30px; width= 30px;/>
+          
           
 </div>
 <br>
 
 <h2>I am studying</h2>
 <div style="display: inline_block">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height=30px; width= 30px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=30px; width= 30px;/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30px; width= 30px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=30px; width= 30px;/>
