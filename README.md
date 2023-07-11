@@ -13,7 +13,7 @@
 <br>
 
 
-🧑🏽‍💻- Currently, I work with BackEnd and FrontEn in C# and with SQL, Oracle, and Postgre databases. <br> 
+🧑🏽‍💻- Currently, I work with BackEnd and FrontEnd in C# and with SQL, Oracle, and Postgre databases. <br> 
 
 📘- I have knowledge in HTML, CSS, JavaScript and NodeJS<br>
 
