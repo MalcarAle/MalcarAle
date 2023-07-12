@@ -26,31 +26,17 @@
 
 <h2>Technologies and Tools</h2>
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30px; width= 30px;/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height=30px; width= 30px; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=30px; width= 30px;/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height=30px; width= 30px;/>
-          
-          
+
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,oracle,git,azure&perline=5)](https://skillicons.dev)    
+ 
 </div>
 <br>
 
 <h2>I am studying</h2>
 <div style="display: inline_block">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=30px; width= 30px;/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=30px; width= 30px;/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height=30px; width= 30px;/>
-          
-  [![My Skills](https://skillicons.dev/icons?i=azure,react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind&perline=3)](https://skillicons.dev)        
+        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts,nodejs&perline=5)](https://skillicons.dev)        
 
 </div>
 <br>
