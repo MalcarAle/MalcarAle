@@ -48,7 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=30px; width= 30px;/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30px; width= 30px;/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=30px; width= 30px;/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height=30px; width= 30px;/>
           
+  [![My Skills](https://skillicons.dev/icons?i=azure,react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind&perline=3)](https://skillicons.dev)        
 
 </div>
 <br>
