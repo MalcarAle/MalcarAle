@@ -27,7 +27,7 @@
 <h2>Technologies and Tools</h2>
 <div style="display: inline_block">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,oracle,git,azure&perline=5)](https://skillicons.dev)    
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,git,azure&perline=5)](https://skillicons.dev)    
  
 </div>
 <br>
