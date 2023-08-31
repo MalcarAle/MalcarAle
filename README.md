@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/MalcarAle/github-readme-stats">
-  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&hide=contribs,prs&show_icons=true&theme=radical" />
+  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs,prs&show_icons=true&theme=radical" />
   <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcarAle&layout=compact&theme=radical" />
 </a>
 </div>
