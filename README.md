@@ -1,16 +1,23 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=header"/>
 
 
 <div align="center">
-<a href="https://github.com/MalcarAle/github-readme-stats">
-  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs,prs&show_icons=true&theme=radical" />
-  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcarAle&layout=compact&theme=radical" />
-</a>
-</div>
- <br> 
+
   
-### <h2>Welcome to my GitHub! I am Alexandre Malcar Veiga 🖖</h2>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alexandre;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
 
 <br>
+  
+<a href="https://github.com/MalcarAle/github-readme-stats">
+  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=MalcarAle&hide_border=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=contribs,prs&show_icons=true&theme=radical" />
+  <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcarAle&layout=compact&hide_border=true&theme=radical" />
+</a>
+</div>
+  
+<br>
+<br>
+<div align="center">
 
 
 🧑🏽‍💻- Currently, I work with BackEnd and FrontEnd in C# and with SQL, Oracle, and Postgre databases. <br> 
@@ -27,7 +34,7 @@
 <h2>Technologies and Tools</h2>
 <div style="display: inline_block">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,git,azure&perline=5)](https://skillicons.dev)    
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,git,azure&perline=10)](https://skillicons.dev)    
  
 </div>
 <br>
@@ -36,7 +43,7 @@
 <div style="display: inline_block">
   
         
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts,nodejs&perline=5)](https://skillicons.dev)        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts,nodejs&perline=10)](https://skillicons.dev)        
 
 </div>
 <br>
@@ -49,4 +56,5 @@
   <a href="www.linkedin.com/in/alexandre-malcar-veiga-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-          
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
+</div> 
