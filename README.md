@@ -34,7 +34,7 @@
 <h2>Technologies and Tools</h2>
 <div style="display: inline_block">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,git,azure&perline=10)](https://skillicons.dev)    
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,figma,postgres,git,azure,nodejs&perline=10)](https://skillicons.dev)    
  
 </div>
 <br>
@@ -43,7 +43,7 @@
 <div style="display: inline_block">
   
         
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts,nodejs&perline=10)](https://skillicons.dev)        
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts&perline=10)](https://skillicons.dev)        
 
 </div>
 <br>
