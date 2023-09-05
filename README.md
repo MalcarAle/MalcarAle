@@ -3,8 +3,8 @@
 
 <div align="center">
 
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Alexandre;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Alexandre;Welcome+to+my+GitHub+Profile!:D)](https://git.io/typing-svg)
 
 
 <br>
