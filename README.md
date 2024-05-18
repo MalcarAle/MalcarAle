@@ -39,13 +39,6 @@
 </div>
 <br>
 
-<h2>I am studying</h2>
-<div style="display: inline_block">
-  
-        
-  [![My Skills](https://skillicons.dev/icons?i=react,vue,angular,docker,express,nestjs,nextjs,prisma,styledcomponents,tailwind,ts&perline=10)](https://skillicons.dev)        
-
-</div>
 <br>
 
 <h2>Contacts</h2>
